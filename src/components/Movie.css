@@ -19,6 +19,9 @@
 .Movie-content {
     margin:3vh 5vh 3vh 5vh;
 }
+.Movie-content img{
+    max-height: 40vh;
+}
 
 .Movie-vote-up, .Movie-vote-down{
     padding-left: .25rem; 

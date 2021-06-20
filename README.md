@@ -4,9 +4,19 @@
 This portion of the app is a part of a take home challenge for [YearOne](https://www.joinyearone.io/)
 
 ## Demo
+[Live Demo here](https://right-name.surge.sh/) using [Surge](https://surge.sh/)
+[Video Demo on Loom.](https://www.loom.com/share/3626aa052b8944829c9b1aa8a77fd367)
 
-Insert gif or link to demo
+Main Page
+<img src='./assets/yearone-main-demo.png' width='650'>
 
+
+Search Results
+<img src='./assets/yearone-search-results.png' width='650'>
+
+
+Movie Details
+<img src='./assets/yearone-movie-details.png' width='650'>
   
 ## Run Locally
 Please note, this app will make requests to `http://localhost:3001` if the environment variable: `REACT_APP_BASE_URL` is not configured.
