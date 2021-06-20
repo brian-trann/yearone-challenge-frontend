@@ -1,0 +1,20 @@
+.MovieCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    font-size: 1.5rem;
+    
+    transition: all 750ms;
+    margin: 0.5rem 1rem;
+}
+.MovieCard:hover {
+    
+    transform: translateY(-1px) scale(1.05);
+}
+
+.MovieCard a, .MovieCard:hover{
+    color: black;
+    text-decoration: none;
+}

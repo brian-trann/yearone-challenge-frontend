@@ -1,0 +1,11 @@
+.SearchForm , .SearchForm div{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+.SearchForm label{
+    font-size:1.2rem;
+}
+.SearchForm-buttons button{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}

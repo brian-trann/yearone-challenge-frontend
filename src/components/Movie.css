@@ -1,0 +1,34 @@
+
+.Movie-home{
+    position:absolute;
+    margin-top:3vh;
+    margin-left:6vh;
+    width:120px;
+    left:0;
+}
+
+.Movie-home a{
+    color:black;
+}
+.Movie-home a:visited{
+    color:black;
+}
+.Movie-home a:hover{
+    color: rgb(50, 50, 50);;
+}
+.Movie-content {
+    margin:3vh 5vh 3vh 5vh;
+}
+
+.Movie-vote-up, .Movie-vote-down{
+    padding-left: .25rem; 
+    margin-left: .75rem; 
+    padding-right: .25rem;
+    cursor: pointer;
+}
+.Movie-vote-up-icon{
+    color:limegreen;
+}
+.Movie-vote-down-icon{
+    color:tomato;
+}

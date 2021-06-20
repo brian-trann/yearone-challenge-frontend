@@ -1,0 +1,16 @@
+.MovieApp-main{
+    margin-bottom: 2vh;
+    
+}
+.MovieApp-grid{
+    gap:1rem;
+    grid-template-columns: 1fr;
+    grid-template-columns: repeat(1,minmax(300px,800px));
+    min-height: 400px;
+}
+.MovieApp-top-header{
+    margin-bottom: 2rem;
+}
+.MovieApp-paginate{
+    margin-top: 1vh;
+}
