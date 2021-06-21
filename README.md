@@ -5,6 +5,9 @@ This portion of the app is a part of a take home challenge for [YearOne](https:/
 
 ## Demo
 [Live Demo here](https://right-name.surge.sh/) using [Surge](https://surge.sh/)
+**Note:** The backend is hosted on Heroku and requires time to spin up, if the server has gone to sleep. The first search will typically be really slow. I need to add a loading spinner to notify the user that the application is loading.
+
+
 [Video Demo on Loom.](https://www.loom.com/share/3626aa052b8944829c9b1aa8a77fd367)
 
 Main Page
